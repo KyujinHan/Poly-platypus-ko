@@ -1,5 +1,4 @@
 # Poly-platypus-ko
-# KO-Platypus (Ko-Platy🥮)
 ![KO-platypus](./poly-platypus.png)
 **Korean-Open-platypus를 활용하여 Polyglot-ko를 fine-tuning한 Korean-Platypus model**  
   
