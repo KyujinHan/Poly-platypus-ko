@@ -4,17 +4,16 @@
 - 본 연구는 (주)마커와 (주)미디어그룹사람과숲의 오픈소스 LLM 연구 컨소시엄에서 진행되었습니다.
   
 # Model description
-
-## Polyglot-ko + KO-Platypus
 **Poly-platypus-ko-12.8b🥮:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/MarkrAI/kyujin-Poly-platypus-ko-12.8b)     
 **KOpen-Platypus🥮:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets/kyujinpy/KOpen-platypus)   
-
+> Polyglot-ko + KO-Platypus
+  
 ---
-## Polyglot-ko + CoT-llama2-ko
 **CoTy-platypus-ko-12.8b:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/MarkrAI/kyujin-Poly-platypus-ko-12.8b)   
 **KoCoT_2000:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets/kyujinpy/KoCoT_2000)  
-
+> Polyglot-ko + CoT-llama2-ko
 ---
+  
 # KO-platypus2 & CoT-llama2-ko
 [KO-platypus2](https://github.com/Marker-Inc-Korea/KO-Platypus)   
 [CoT-llama2-ko](https://huggingface.co/kyujinpy/CoT-llama-2k-7b)  
