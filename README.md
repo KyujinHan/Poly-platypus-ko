@@ -9,7 +9,7 @@
 > Polyglot-ko + KO-Platypus
   
 ---
-**CoTy-platypus-ko-12.8b:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/MarkrAI/kyujin-Poly-platypus-ko-12.8b)   
+**CoTy-platypus-ko-12.8b:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/MarkrAI/kyujin-CoTy-platypus-ko-12.8b)   
 **KoCoT_2000:** [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/datasets/kyujinpy/KoCoT_2000)  
 > Polyglot-ko + CoT-llama2-ko
 ---
